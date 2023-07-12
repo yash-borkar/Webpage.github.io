@@ -1,0 +1,27 @@
+
+body{
+    background-color:rgb(253, 209, 250);
+}
+.main{
+    text-align:center;
+}
+.GFG{
+    color:yellowgreen;
+    font-size:50px;
+    font-weight:bold;
+}
+#Yash{
+    font-style:bold;
+    font-size:20px;
+}
+
+
+  #Note{
+    font-style:bold;
+    font-size:60px;
+}
+#Text{
+    font-style:bold;
+    font-size:22px;
+}
+
